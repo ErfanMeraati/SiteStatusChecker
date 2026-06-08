@@ -57,7 +57,6 @@ def main():
         print(line)
         output_lines.append(line)
 
-    # بپرس ذخیره بشه یا نه
     save = input("\nSave results to file? (y/n): ").strip().lower()
     if save == "y":
         filename = f"results_{time.strftime('%Y%m%d_%H%M%S')}.txt"
