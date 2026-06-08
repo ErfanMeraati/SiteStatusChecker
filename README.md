@@ -1,6 +1,6 @@
 # Site Status Checker
 
-**English** | [فارسی](#فارسی)
+**English** | [فارسی])
 
 ---
 
